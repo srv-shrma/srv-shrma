@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srv-shrma&label=Profile%20views&color=0e75b6&style=flat" alt="srv-shrma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srv-shrma" alt="srv-shrma" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srv-shrma" alt="srv-shrma" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/srv_shrma_" target="blank"><img src="https://img.shields.io/twitter/follow/srv_shrma_?logo=twitter&style=for-the-badge" alt="srv_shrma_" /></a> </p>
 
